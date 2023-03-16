@@ -1,0 +1,18 @@
+............................................
+printing receipts after shopping
+Create a small shop with some products and prices where a buyer can view the list of a vailable products and their prices.
+..................................................................................................
+when program runs, it should prompt buyer to create account using password and email and store this in an excel sheet.
+................................................................................
+Then ask user for login if he has registered account else register
+.............................................
+The products shoulf be fetched from an excel sheet called products.
+Buyer can choose what to buy.
+Buyer can pay for what they have have bought
+...................................................................
+
+Then print a reciept for the buyer. Simple receipt example
+This receipt should printed on terminal, dont bother about pdf printing for now
+NB. This simulates the real world ecommerce situation, consider all possible human errors and catch them
+ e.g buyer puts a price less that the total of items he has bought,
+  buyer putting wrong. Use functions to break down your work into small codes. You can use modules and import them as well.

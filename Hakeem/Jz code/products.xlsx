@@ -1,0 +1,9 @@
+ "laptops"             : 'negotiable',
+    "hard_disks"           : 250,
+     "Ram_chips"           : 150,
+     "Adapters"            : 100,
+     "Softwares"           : 7,
+     "mouse"               : 5,
+     "web_applications"    : 'negotiable',
+     "mobile_applications" : 'negotiable',
+     "Hosting_services"    :'negotiable'
